@@ -1,5 +1,5 @@
 # Setting up environment
-## Prerequisites
+## NumPy version compatibility issue
 since numpy>=1.20.0 has bunch of deprecation,<br>
 the latest version of qiskit(0.23.5) no more supports numpy<=1.19.5<br>
 but in order to use pytorch 1.7.1, we have to set python<3.9<br>
