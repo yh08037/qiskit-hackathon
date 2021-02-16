@@ -5,7 +5,7 @@ the latest version of qiskit(0.23.5) no more supports numpy<=1.19.5<br>
 but in order to use pytorch 1.7.1, we have to set python<3.9<br>
 and it forces to use numpy 1.19.5, so we will get error if we run `import qiskit`.
 
-my successful **LINUX** environment was as follows
+my successful **Ubuntu 18.04** environment was as follows
 
 ## 1. Install cuda toolkit 10.2
 ### 1) Install CUDA Toolkit 10.2 and patch 1, patch 2
