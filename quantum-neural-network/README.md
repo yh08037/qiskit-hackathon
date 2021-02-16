@@ -69,6 +69,7 @@ $ python3
 >>> import torch
 >>> torch.__version__
 '1.7.1'
+>>> import numpy
 >>> numpy.__version__
 '1.19.2'
 ```
